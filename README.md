@@ -23,7 +23,7 @@ pod 'FileDownloadKit', :git => 'https://github.com/wangfangshuai/FileDownloadKit
 
 ## Author
 
-anddygon@gmail.com, gongxiaopeng@apusapps.com
+wangfangshuai@gmail.com
 
 ## License
 
