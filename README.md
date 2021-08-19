@@ -5,11 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/FileDownloadKit.svg?style=flat)](https://cocoapods.org/pods/FileDownloadKit)
 [![Platform](https://img.shields.io/cocoapods/p/FileDownloadKit.svg?style=flat)](https://cocoapods.org/pods/FileDownloadKit)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## Instruduction
+文件下载的库，依赖于Alamofire
 
 ## Requirements
+iOS 11.0
 
 ## Installation
 
@@ -17,7 +17,8 @@ FileDownloadKit is available through [CocoaPods](https://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'FileDownloadKit'
+pod 'FileDownloadKit', :git => 'https://github.com/wangfangshuai/FileDownloadKit.git', :tag => '0.0.1'
+
 ```
 
 ## Author
